@@ -1,0 +1,3 @@
+question1: https://github.com/WenhaoCao0729/404lab4.git
+question2: a page shows "The install worked successfully! Congratulations!"
+question3: The page shows 404 not found in / and shows Hello world in /polls
