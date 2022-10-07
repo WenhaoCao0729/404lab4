@@ -1,3 +1,8 @@
 question1: https://github.com/WenhaoCao0729/404lab4.git
 question2: a page shows "The install worked successfully! Congratulations!"
 question3: The page shows 404 not found in / and shows Hello world in /polls
+question4: Migrations are Django's way of propagating changes you make to your models (adding a field, deleting a model, etc.) into your database schema.
+question5: I saw a Django administration website, I create my models in models.py and register in admin.py
+question6: 1. You're looking at question 38. 2. You're looking at the results of question 38. 3. You're voting on question 38. 4. 404 5. change int to str
+question7: avoids problems with files being moved, ensures you're using the correct scripts without duplication, and is also more efficient.
+question8: because django allows something you are doing generically you shouldn't do it, particularly not when your code becomes not to your like.
